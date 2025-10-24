@@ -222,11 +222,11 @@ perumpugai.html
 
 
 ## OUTPUT
-jaga/mapapp/static/Screenshot 2025-10-24 111130.png
-jaga/mapapp/static/1.png
-jaga/mapapp/static/2.png
-jaga/mapapp/static/3.png
-jaga/mapapp/static/4.png
-jaga/mapapp/static/5.png
+![alt text](<jaga/mapapp/static/Screenshot 2025-10-24 111130.png>)
+![alt text](jaga/mapapp/static/1.png)
+![alt text](jaga/mapapp/static/2.png)
+![alt text](jaga/mapapp/static/3.png)
+![alt text](jaga/mapapp/static/4.png)
+![alt text](jaga/mapapp/static/5.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
