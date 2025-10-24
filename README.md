@@ -222,7 +222,7 @@ perumpugai.html
 
 
 ## OUTPUT
-![alt text](<jaga/mapapp/static/Screenshot 2025-10-24 111130.png>)
+![alt text](<jaga/mapapp/static/Screenshot 2025-10-24 180758.png>)
 ![alt text](jaga/mapapp/static/1.png)
 ![alt text](jaga/mapapp/static/2.png)
 ![alt text](jaga/mapapp/static/3.png)
